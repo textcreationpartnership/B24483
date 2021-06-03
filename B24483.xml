@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Hvmble proposal of safety to the Parliament and citie in this time of present danger, viz. : in case the Parliament should go forth into the field, as was lately moved by the honorable House of Commons, and as we hope will be speedily and</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24483</idno><idno type="EEBO-CITATION">12196191</idno>
+  <idno type="VID">197273</idno>
+  <idno type="EEBO-PROQUEST">2240942734</idno>
+  
+            <idno type="STC">Wing H3592</idno>
+            <idno type="OCLC">12196191</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E104, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Hvmble proposal of safety to the Parliament and citie in this time of present danger, viz. : in case the Parliament should go forth into the field, as was lately moved by the honorable House of Commons, and as we hope will be speedily and</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Pain and M. Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197273:1"/>
+            <pb facs="tcp:197273:1"/>
+            <p>AN HVMBLE PROPOSAL Of Safety to the PARLIAMENT AND CITIE, In this time of present danger, <hi>viz.</hi>
+            </p>
+            <p>In case the Parliament should go forth into the Field, as was lately moved by the honorable House of Commons, and as we hope will be speedily and unanimously resolved on:</p>
+            <p>In these ensuing lines is a Rule (humbly offered) how an Army shall be presently raised, and as well great sums of Money be im<g ref="char:EOLhyphen"/>mediatly brought in, as a constant Spring for the future, be cer<g ref="char:EOLhyphen"/>tainly provided, in such manner, that every man shall neces<g ref="char:EOLhyphen"/>sarily be engaged for the State, either in Person or Purse, or else in a faire way be occasioned to leave the Citie, or suffer in worse kind. And all this in few daies time, before the eyes of the Parliament, and that without danger or much trouble.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Pain</hi> and <hi>M. Simomus.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:197273:2"/>
+            <pb n="3" facs="tcp:197273:2"/>
+            <head>AN HVMBLE PROPOSALL To the Parliament and Citie, in this time of present danger.</head>
+            <p n="1">I. <seg rend="decorInit">I</seg>F the Parliament shall please to authorize the present raising of Monies upon the Citie Seal, if desired; and a Spring of Money for the future, by an equall le<g ref="char:EOLhyphen"/>vie, if their wisedomes thinke meet; and when they shall have taken order to secure the Horse in the adjacent Counties, to victuall the Citie, and to clear the Prisons: All which is desired may be first and immediaty done (if it might be) without one houres delay.</p>
+            <p n="2">II. Then let it be considered, whether it be not of important ne<g ref="char:EOLhyphen"/>cessity, that with all speed (if it be possible within a day or two at the furthest) the House of Commons, with those Lords that wil joyn with them, should go forth personally into the Field, for foure or six dayes time more or lesse, as shall be thought needfull, to encourage (at least, if not to lead) the people, who most ear<g ref="char:EOLhyphen"/>nestly long for such an opportunity to discover their affections.</p>
+            <p n="3">III. If this be resolved on, then this following method, or such like,
+<pb n="4" facs="tcp:197273:3"/>(as is humbly conceived) will be of good use. Let 16. or 18. Tents or boarded Houses be raised in <hi>Finsberry</hi> Field, or els-where, and according to the number of these Tents or Houses, let the Parlia<g ref="char:EOLhyphen"/>ment men divide themselves into so many Committees, and let every Committee call to its assistance, an Alderman, with his De<g ref="char:EOLhyphen"/>puty, and the Common-counsell-men of his Ward, together with two or three of the best affected members of the Synod.</p>
+            <p n="4">IV. This done, let all the shops in London and the Suburbs, by strict command be kept shut, that so in the time of going forth into the Fields, men may have nothing to hinder them from ap<g ref="char:EOLhyphen"/>pearing.</p>
+            <p n="5">V. When the appearance shall be, let the Committees and Alder<g ref="char:EOLhyphen"/>men first speak to the people, and fully represent to them the dan<g ref="char:EOLhyphen"/>gers of the Parliament and City; but especially let the Ministers move them affectionatly with the deep consideration, (1.) Of the calamities abroad, which we have onely heard of, as in <hi>Ire<g ref="char:EOLhyphen"/>land, Bristoll,</hi> and the North of <hi>England,</hi> &amp;c. (2.) With our own pressing and increasing miseries, likely to over-flow even with streams of blood, every corner of this (lately flourishing, but now) decaying Kingdome. And let them charge upon the peo<g ref="char:EOLhyphen"/>ples consciences, their Protestation, Covenant, and that dutie which God and all our friends in Christendome doe call for; and this with that earnestnesse as becomes the present extremity of this sinking dying Nation. And let the people be required in the face of those Parliament-men which have undergone such un<g ref="char:EOLhyphen"/>wearied pains for <hi>Englands</hi> preservation, and with whom they have so often protested they will live and die, immediatly with<g ref="char:EOLhyphen"/>out excuses or delayes, which these straights of time will not now admit, to declare themselves cheerfull and unanimous both in person and purse, or in one of them at least, to do their utter<g ref="char:EOLhyphen"/>most against our desperate and bloody enemies, for the help of a distressed State, and the rescue of a glorious Gospel.</p>
+            <p n="6">VI. To prevent danger in the absence of the Citizens abroad, let two or three Aldermen, with one of the Sheriffes, and a Regi<g ref="char:EOLhyphen"/>ment or two of men abide in the City, while the rest go forth in<g ref="char:EOLhyphen"/>to the Fields as aforesaid.</p>
+            <pb n="5" facs="tcp:197273:3"/>
+            <p n="7">VII. There cannot be fewer then 16. or 18. Tents or Houses to ac<g ref="char:EOLhyphen"/>complish that end for which they are intended, which is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p n="1">I. Let 12. of these Tents be appointed for the listing of Souldiers, the other six to receive Moneys and Subscriptions<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="2">II. Those Tents which are for Money and Subscriptions, let them stand on one side of the Field: and those which are for listing of Souldiers, on the other side; that so men which come to serve the State in person, may go together by themselves; and those which come to serve in purse, may go by themselves.</p>
+            <p n="3">III. In every Tent which is for Money and subscriptions, it would be convenient that one of the House of Lords be present (in case the Lords will joyne with our faithfull Commons in this act) that so the countenance of both Houses of Parliament and City may all concurre to advance the Work, which will go on the more smoothly (doubtlesse) if the Orders and Ordinances of Parliament, together with the Orders or Acts of Common-Councell, concerning reimbursements be there present, that so men which bring in present Moneys, and do subscribe, may at once see both the City-Seal, and the Publick Faith offered for their security, and be thereby assured, that if the City and King<g ref="char:EOLhyphen"/>dom do not perish, they or theirs shall be sure to be repaid.</p>
+            <p n="4">IIII. And to avoid all disorder and confusion, by which a businesse of this nature is quickly spoiled, let these six Tents for Money and Subscriptions be made large, and foure Wards be allotted unto every Tent, that every man may know distinctly whither to repair with his Money, and to subscribe in every Tent. Let there be two Clerks for every Ward, which will amount to eight Clerks in every Tent. At one end of the Tent let foure Clerks sit to receive Moneys onely, at the other end of the Tent foure Clerks sit to receive Subscriptions onely; those which sit to re<g ref="char:EOLhyphen"/>ceive Money onely, let them write down the summes, and the names of the men that bring them, every Clerk being assigned to his particular Ward. Let the same order be likewise observed
+<pb n="6" facs="tcp:197273:4"/>at the other end of the Tent which is for Subscriptions onely. And at night let the Clerks deliver up their Roule of names, to the Aldermen or Deputies of their Wards, with a double Co<g ref="char:EOLhyphen"/>lumne, one, of the names of those within such or such a Ward, that have lent Money, or subscribed; and the other Columne of the names of those which have not brought money, or subscri<g ref="char:EOLhyphen"/>bed, for which reason it is necessary for every Clerk to have a Roule of the names of all those men which are judged fit to lend Money in the Ward for which he serves, and those men which this first day of appearing in the Fields are found at night, not to have brought money or subscribed, let them be strictly required to appeare the next day in the Fields, in manner and for the pur<g ref="char:EOLhyphen"/>pose aforsaid, &amp; those that are found not to have done any thing the second day, let them be warned again to appear the next day; and so every night in the same order so long as this Feild-work remains. And then those in every Ward, which after all this fair entreaty and perswasion shall be found to have done nothing either in person or purse, let them be sent for before the Com<g ref="char:EOLhyphen"/>mon-Councell of London, or before the Parliament, and be re<g ref="char:EOLhyphen"/>quired immediately, they and their families to depart the City, except some other penaltie shall be though more fit to be in<g ref="char:EOLhyphen"/>flicted.</p>
+            <p n="5">V. Let two of those Tents which are for listing of Souldiers stand at a good distance from the rest, and let their work be to list the Citizens for Horse and Foot, which will go in person upon their own charges.</p>
+            <p n="6">VI. Let the other ten Committees set up signes at their Tents ac<g ref="char:EOLhyphen"/>cording to mens severall trades and vocations; as let the first Tent hang up a Glove, a Shooe, and a pair of Sheeres, that all the Taylors, and Glovers and Shooe-makers at the first entrance into the Field, without confusion or losse of time, may know whither to repair and list themselves every man with men of his own vocation: by which means they will come in more abun<g ref="char:EOLhyphen"/>dantly, and encourage each other more cheerfully, especially if <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> shall be told them by the Aldermen of the Citie, that care shall be taken to provide bread and fuell for their poore wives and chil<g ref="char:EOLhyphen"/>dren, while themselves are used in the Kingdomes service.</p>
+            <pb n="7" facs="tcp:197273:4"/>
+            <p>Let the same order be observed by the other nine Tents, alot<g ref="char:EOLhyphen"/>ting five or six trades at least to every Tent, else there will not be Tents enough. The chiefest trades and vocations that will af<g ref="char:EOLhyphen"/>foord most store of men, are all sorts of Cloth-workers, as Ful<g ref="char:EOLhyphen"/>lers, Sheer-men, Dyers, Weavers, Silk-throsters, Spinners, Car<g ref="char:EOLhyphen"/>penters, Ship-wrights, Bricklayers, Plaisterers, Joyners, Turners, Box-makers, Felt-makers, Feltmongers, Seamen, Watermen, Sail-makers, Rope-makers, Brafiers, Founders, Pewterers, all kind of Smiths, Butchers, Bakers, Brewers, Cooks, Vintners, Perfumers, Painters, Barbers, Pinners, Glasiers, Gardiners, Coo<g ref="char:EOLhyphen"/>pers, Wine Coopers, Porters, Wine Porters, Drawers, and Sale<g ref="char:EOLhyphen"/>men, Stillers of Hot-waters, Comb makers, Coach makers, Dreymen, Carmen, Hostlers, Translaters, Water-bearers, Broom-men, &amp;c. But Sadlers, Gun-smiths, Sword-makers, and all sorts of Armorers must be spared.</p>
+            <p>And lest Malignants should list themselves together in whole companies, and get Armes, it may be convenient that six or eight godly men of every trade, should be found out, and be ap<g ref="char:EOLhyphen"/>pointed to watch such a mischiefe, and in time to discover it. If twenty or thirty doubtfull men be mingled with an hundred o<g ref="char:EOLhyphen"/>thers, especially under good Commanders, it my not prove so dangerous; but if more then such a number, the matter may be suspected.</p>
+            <p n="7">VII. At every Tent let Captains be in readinesse with entertain<g ref="char:EOLhyphen"/>ment-Money and Colours, and to take the name of the place where every one dwels that listeth himself under him. And let Armes be likewise ready at every Tent to arme men so soon as listed: If Arms be wanting, see the necessity of disarming Ma<g ref="char:EOLhyphen"/>lignants.</p>
+            <p n="8">VIII. To prevent any mischief that might arise, let all the Forces of what kind soever in the City and Suburbs, be drawn into the Feild (except the forenamed guard for the City) and according to the number of Tents, let the Regiments or Companies be di<g ref="char:EOLhyphen"/>vided to guard every Tent.</p>
+            <pb n="8" facs="tcp:197273:5"/>
+            <p n="9">IX. And that no man may pretend ignorance, or be unprepared for this service (if the Parliament shall think fit) let the time and place of this going forth be published the day before, and espe<g ref="char:EOLhyphen"/>ciall order be given, that every man throughout the City and Suburbs, rich and poore, old and young, that is any way fit to appear in person or purse, and would not be taken to be an enemy unto the State, may be strictly required the night before (by some appointed to go from house to house for that purpose) to ap<g ref="char:EOLhyphen"/>pear at the place where these Tents shall be fixed the next day: and let a penaltie as aforesaid be inflicted on them that shall be found unwilling to help quench a flaming Kingdom.</p>
+            <p n="10">X. If in 4. or 5. dayes time an Army be this way raised, and good summes of money provided to maintain it; how soon then may the City be put into a gallant posture; Shops be opened, Trading set up again at home, while our Armies are dealing with our Enemies abroad; and a brave Kingdom which now lies a bleeding, through Gods mercy be yet timely secured.</p>
+            <p>How easily and speedily may all this be done, if men have hearts to go about it? Many hands make light work; Much must be done in little time, or else we perish. <hi>Concordiâ parvae res crescunt:</hi> But Parliament-breaches of Covenant, against a jealous God, oh how ominous and how dreadfull! Remember the curse, Jer. 48.10. <hi>Cursed be he that doth the work of the Lord negligently, and cursed be he that withholds the Sword from blood.</hi>
+            </p>
+            <p>England may this day know, that London can yet afford an 100000. men, if need be, as well in deed as in word, to live and die with the House of Commons, maugre all aspersions that have been case upon it. Up therefore and be doing, our Noble Senatours, be valiant for the Truth, and the Lord of Hosts shall be with You.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
